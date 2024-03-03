@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashisadhikari" alt="shashisadhikari" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -69,14 +68,11 @@
 
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashisadhikari&show_icons=true&locale=en" alt="shashisadhikari" />
-
-
 # :fire: My Stats :
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShashiSAdhikari&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashiSAdhikari&layout=compact&theme=midnight-purple)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![Prathibha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashiSAdhikari&theme=midnight-purple&show_icons=true)
+  ![Shashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashiSAdhikari&theme=midnight-purple&show_icons=true)
   
 </p>
