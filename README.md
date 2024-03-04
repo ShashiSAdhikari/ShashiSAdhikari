@@ -11,7 +11,16 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+# :fire: My Stats :
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShashiSAdhikari&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashiSAdhikari&layout=compact&theme=midnight-purple)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![Shashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashiSAdhikari&theme=midnight-purple&show_icons=true)
+
+
+  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -65,12 +74,3 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
 </p>
-
-# :fire: My Stats :
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShashiSAdhikari&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashiSAdhikari&layout=compact&theme=midnight-purple)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![Shashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashiSAdhikari&theme=midnight-purple&show_icons=true)
-  
